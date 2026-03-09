@@ -1,61 +1,53 @@
-# FIBER-ECHO-
-🔍 Network diagnostics for the Global users. Measure bufferbloat, generate ISP evidence reports, and fight bad internet with data. Built in Fiji for every one that suspects their internet sucks.
+# 🌊 FIBER-ECHO v4 - INTERNATIONAL EDITION
 
-🌊 FIBER-ECHO v4 - INTERNATIONAL EDITION
+🔍 Network diagnostics for global users. Measure bufferbloat, generate ISP evidence reports, and fight bad internet with data. Built in Fiji for everyone who suspects their internet sucks.
 
-https://img.shields.io/badge/python-3.6+-blue.svg
-https://img.shields.io/badge/License-MIT-yellow.svg
-https://img.shields.io/badge/Maintained%3F-yes-green.svg
-https://img.shields.io/badge/PRs-welcome-brightgreen.svg
+[![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/jaminejunior0-a11y/fiber-echo/graphs/commit-activity)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/jaminejunior0-a11y/fiber-echo/pulls)
 
-"Separating bufferbloat from the speed of light, anywhere on Earth"
+**"Separating bufferbloat from the speed of light, anywhere on Earth"**
 
-A powerful network diagnostic tool that turns raw ping data into professional ISP evidence. Built by an engineer in Fiji, for the world.
-
-https://via.placeholder.com/800x400.png?text=FIBER-ECHO+v4+Demo
+A powerful network diagnostic tool that turns raw ping data into **professional ISP evidence**. Built by an engineer in Fiji, for the world.
 
 ---
 
-✨ Features
+## ✨ Features
 
-🔬 Core Analysis
+### 🔬 **Core Analysis**
+- **Physical layer decomposition** - Separates propagation delay (actual fiber distance) from bufferbloat (router congestion)
+- **99th percentile analysis** - Catches the spikes that ruin your experience
+- **Jitter measurement** - Quantifies connection stability
+- **Packet loss detection** - Identifies unstable links
 
-· Physical layer decomposition - Separates propagation delay (actual fiber distance) from bufferbloat (router congestion)
-· 99th percentile analysis - Catches the spikes that ruin your experience
-· Jitter measurement - Quantifies connection stability
-· Packet loss detection - Identifies unstable links
+### 🌍 **International & Region-Aware**
+- **9 regions** - Pacific, Australia, Asia, Europe, North America, South America, Africa, Middle East, Global
+- **Region-specific benchmarks** - What's "bad" in Europe is normal in Fiji - we know this
+- **Auto-detection** - Let the tool guess where you are based on latency
+- **Local ISP targets** - Tests servers that actually matter for your location
 
-🌍 International & Region-Aware
+### 📋 **ISP Evidence Reporting**
+- **Professional reports** - Plain text format any ISP support team understands
+- **Executive summaries** - For non-technical managers
+- **Technical findings** - For network engineers
+- **Responsibility isolation** - Proves whether it's your WiFi or their network
+- **Actionable recommendations** - Tells you exactly what to do next
 
-· 9 regions - Pacific, Australia, Asia, Europe, North America, South America, Africa, Middle East, Global
-· Region-specific benchmarks - What's "bad" in Europe is normal in Fiji - we know this
-· Auto-detection - Let the tool guess where you are based on latency
-· Local ISP targets - Tests servers that actually matter for your location
+### 🤖 **AI-Powered Analysis**
+- **DeepSeek integration** - Upload your report to [chat.deepseek.com](https://chat.deepseek.com) for expert analysis
+- **Natural language explanations** - "Why is my internet slow?" answered in plain English
 
-📋 ISP Evidence Reporting
-
-· Professional reports - Plain text format any ISP support team understands
-· Executive summaries - For non-technical managers
-· Technical findings - For network engineers
-· Responsibility isolation - Proves whether it's your WiFi or their network
-· Actionable recommendations - Tells you exactly what to do next
-
-🤖 AI-Powered Analysis
-
-· DeepSeek integration - Upload your report to chat.deepseek.com for expert analysis
-· Natural language explanations - "Why is my internet slow?" answered in plain English
-
-🎯 For Everyone
-
-· Engineers - Get the raw data and physics-based analysis
-· Normal humans - "The bigger the bufferbloat number, the angrier you should be"
-· Script kiddies - We made a HOW_TO_USE.txt just for you 🤣
+### 🎯 **For Everyone**
+- **Engineers** - Get the raw data and physics-based analysis
+- **Normal humans** - "The bigger the bufferbloat number, the angrier you should be"
+- **Script kiddies** - We made a HOW_TO_USE.txt just for you 🤣
 
 ---
 
-🚀 Quick Start
+## 🚀 Quick Start
 
-Installation
+### Installation
 
 ```bash
 # Clone the repository
@@ -64,7 +56,6 @@ cd fiber-echo
 
 # No dependencies needed! (optional: pip install numpy scipy for advanced stats)
 python fiber_echo_v4.py
-```
 
 First Run
 
@@ -302,3 +293,7 @@ Now stop reading and run the damn thing! 🚀
 ---
 
 ⬆ Back to Top
+
+```
+
+---
