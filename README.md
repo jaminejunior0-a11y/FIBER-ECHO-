@@ -51,8 +51,8 @@ A powerful network diagnostic tool that turns raw ping data into **professional 
 
 ```bash
 # Clone the repository
-git clone https://github.com/jaminejunior0-a11y/fiber-echo.git
-cd fiber-echo
+git clone https://github.com/jaminejunior0-a11y/FIBER-ECHO-.git
+cd FIBER-ECHO-
 
 # No dependencies needed! (optional: pip install numpy scipy for advanced stats)
 python fiber_echo_v4.py
@@ -110,7 +110,7 @@ Step 4: Get AI Analysis (Optional but Awesome)
 ```
 🤖 Want AI-powered analysis?
   1. Go to https://chat.deepseek.com
-  2. Upload the file: ISP_Evidence_pacific_20240115_143023.txt
+  2. Upload the file: ISP_Evidence_pacific_20260115_143023.txt
   3. Ask: 'Analyze this ISP evidence report and tell me what to do'
 ```
 
@@ -280,7 +280,7 @@ Know more? Submit a PR!
 
 If this tool helps you prove your ISP is lying, give it a star ⭐
 
-https://api.star-history.com/svg?repos=jaminejunior0-a11y/fiber-echo&type=Date
+https://api.star-history.com/svg?repos=jaminejunior0-a11y/FIBER-ECHO-&type=Date
 
 ---
 
